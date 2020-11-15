@@ -1,0 +1,134 @@
+2020-11-12T14:28:32.275Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T14:28:35.972Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T14:31:39.520Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T14:31:43.164Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:01:15.784Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:01:20.678Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:03:06.342Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:03:10.319Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:04:03.859Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:04:06.954Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:05:06.266Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:05:09.768Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:07:05.685Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:07:13.614Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:07:17.317Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:08:33.265Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:08:36.634Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:08:55.101Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:09:57.491Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:10:05.435Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:10:39.729Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:14:50.099Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:15:07.280Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:17:00.421Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:17:05.798Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:17:43.022Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:17:46.081Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:18:40.972Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:18:44.569Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:18:48.090Z [bootcamp-full-stack-desafio-final] error: undefined undefined - object is not defined
+2020-11-12T15:19:53.690Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:19:57.466Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:20:04.647Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - object is not defined
+2020-11-12T15:20:38.228Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:20:41.304Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:21:51.806Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:21:55.160Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:23:01.268Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:23:05.989Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:23:08.861Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-12T15:24:38.999Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:24:42.614Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:25:05.042Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T15:25:08.099Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T15:29:18.634Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - transactions validation failed: type: Path `type` is required.
+2020-11-12T18:01:09.313Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:01:13.737Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T18:05:56.948Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:06:24.356Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T18:15:08.914Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:15:39.890Z [bootcamp-full-stack-desafio-final] error: MongoDB connection unsuccessful, retry after 5 seconds.
+2020-11-12T18:16:09.495Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T18:18:58.683Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:19:22.047Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T18:19:54.950Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:19:58.287Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T18:20:08.853Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T18:20:12.652Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:11:51.586Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:12:18.113Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:22:34.986Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:23:01.470Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:25:02.060Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:25:25.141Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:25:28.462Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:27:19.284Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:27:23.216Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:27:53.813Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Cast to ObjectId failed for value "period" at path "_id" for model "transactions"
+2020-11-12T19:29:28.575Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:29:43.028Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Cast to ObjectId failed for value "period" at path "_id" for model "transactions"
+2020-11-12T19:29:55.415Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T19:30:34.521Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T19:30:44.585Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T21:08:37.521Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T21:09:08.479Z [bootcamp-full-stack-desafio-final] error: MongoDB connection unsuccessful, retry after 5 seconds.
+2020-11-12T21:09:16.911Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-12T21:11:24.455Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-12T21:11:55.437Z [bootcamp-full-stack-desafio-final] error: MongoDB connection unsuccessful, retry after 5 seconds.
+2020-11-12T21:12:03.708Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-13T12:16:30.228Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-13T12:16:31.420Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-13T21:12:11.637Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Cast to ObjectId failed for value "period" at path "_id" for model "transactions"
+2020-11-13T21:14:20.349Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T21:18:05.090Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:03:59.389Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:05:46.680Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:06:08.263Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:06:50.082Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Cast to ObjectId failed for value "period=" at path "_id" for model "transactions"
+2020-11-13T22:07:40.343Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-13T22:07:41.521Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-13T22:08:11.626Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:09:52.875Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - Request param "period" required. Format: yyyy-mm
+2020-11-13T22:27:29.739Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-13T22:27:30.871Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-13T22:27:42.156Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-13T22:27:43.246Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-14T15:47:12.354Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-14T15:47:13.542Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-14T16:56:32.487Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e4') }
+2020-11-14T18:17:10.856Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e3') }
+2020-11-14T18:17:11.134Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e3') }
+2020-11-14T19:49:27.286Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - transactions validation failed: year: Path `year` is required., month: Path `month` is required., day: Path `day` is required.
+2020-11-14T19:49:28.805Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - transactions validation failed: year: Path `year` is required., month: Path `month` is required., day: Path `day` is required.
+2020-11-14T19:49:46.121Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - transactions validation failed: year: Path `year` is required., month: Path `month` is required., day: Path `day` is required.
+2020-11-14T19:56:14.923Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e5') }
+2020-11-14T20:03:16.458Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e5') }
+2020-11-14T20:16:13.892Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - E11000 duplicate key error collection: DesafioFinalBootcampFullStack.transactions index: _id_ dup key: { _id: ObjectId('5fad2bf9c52ef6b1000618e5') }
+2020-11-14T20:23:43.698Z [bootcamp-full-stack-desafio-final] error: POST /api/transaction - transactions validation failed: type: Path `type` is required., yearMonthDay: Path `yearMonthDay` is required., yearMonth: Path `yearMonth` is required., day: Path `day` is required., month: Path `month` is required., year: Path `year` is required., category: Path `category` is required., value: Path `value` is required., description: Path `description` is required.
+2020-11-14T20:28:22.495Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-14T20:42:47.644Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-14T21:05:41.212Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-14T21:05:42.732Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-14T23:35:10.136Z [bootcamp-full-stack-desafio-final] error: GET /api/transaction - getaddrinfo ENOTFOUND cluster0-shard-00-02.wthbt.mongodb.net
+2020-11-14T23:50:46.949Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-14T23:50:48.056Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T00:11:21.679Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-15T00:50:00.564Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T00:50:01.571Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T01:00:55.633Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T01:00:56.670Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T01:35:42.136Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-15T02:18:43.045Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-15T11:32:17.334Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T11:32:18.374Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T11:42:14.704Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-15T11:43:53.213Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T11:43:54.261Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T11:43:57.935Z [bootcamp-full-stack-desafio-final] error: PATCH /api/transaction - Cast to ObjectId failed for value "undefined" at path "_id" for model "transactions"
+2020-11-15T11:49:46.039Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T11:49:47.181Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T13:38:59.090Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T13:39:00.090Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected
+2020-11-15T14:02:22.742Z [bootcamp-full-stack-desafio-final] info: Express server listening on port 3001
+2020-11-15T14:02:23.730Z [bootcamp-full-stack-desafio-final] info: MongoDB is connected

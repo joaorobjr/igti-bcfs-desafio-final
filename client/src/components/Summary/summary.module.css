@@ -1,0 +1,34 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.green {
+  color: #16a085;
+  font-weight: bold;
+}
+.red {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.population {
+  min-width: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.field {
+  min-width: 70px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

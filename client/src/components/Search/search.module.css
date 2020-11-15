@@ -1,0 +1,9 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.btnAdd {
+  margin-right: 10px;
+}
